@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Valoracion_hotel</string>
+    <string name="btn_nuevo">Nueva valoración</string>
+    <string name="lbl_personal">Personal</string>
+    <string name="lbl_instalaciones">Instalaciones</string>
+    <string name="lbl_servicios">Servicios</string>
+    <string name="lbl_limpieza">Limpieza</string>
+    <string name="lbl_confort">Confort</string>
+    <string name="lbl_calidadPrecio">Calidad/Precio</string>
+    <string name="lbl_Ubicacion">Ubicación</string>
+</resources>
